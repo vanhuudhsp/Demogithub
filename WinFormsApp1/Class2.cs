@@ -6,5 +6,6 @@ namespace WinFormsApp1
 {
     class Class2
     {
+        ///fsfs
     }
 }
